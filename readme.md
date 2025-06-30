@@ -101,7 +101,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📞 Contact & Support
 
-- **Author:** [Nand Kishore Soni](https://www.linkedin.com/in/nandkishoresoni)
+- **Author:** [Nand Kishore Soni](https://in.linkedin.com/in/nand-kishore-soni-036783317)
 - **GitHub:** [legendxdevil](https://github.com/legendxdevil)
 - **Issues:** [Open an issue](https://github.com/legendxdevil/whatsapp-bot/issues)
 
